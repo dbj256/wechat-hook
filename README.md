@@ -23,3 +23,5 @@ Post http://127.0.0.1:1234/SendTextMsg
     "wxid": "filehelper",
     "msg": "好2222多\r\naaaa2aaaaaaaa2\uD83D\uDCB0"
 }
+
+QQ6037843
