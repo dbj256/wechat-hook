@@ -10,3 +10,16 @@ wechat-hook 。PC端微信逆向学习。支持3.9.11.17版本。
 注入工具自己网上找
 
 目前只支持消息发送、消息接收、获取联系人
+
+
+Get http://127.0.0.1:1234/Recive_Msg
+
+
+Get http://127.0.0.1:1234/GetContacts
+
+
+Post http://127.0.0.1:1234/SendTextMsg
+{
+    "wxid": "filehelper",
+    "msg": "好2222多\r\naaaa2aaaaaaaa2\uD83D\uDCB0"
+}
